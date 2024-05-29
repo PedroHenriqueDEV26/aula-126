@@ -22,3 +22,8 @@
 .divVelocidade{
     float: right;
 }
+
+canvas{
+    border-style: dotted;
+    margin-top: 70px;
+}
